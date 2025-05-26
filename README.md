@@ -8,7 +8,7 @@ CLI-приложение для анализа статистических да
 # Установка
 Клонируйте репозиторий:
 
-#bash
+# bash
 git clone https://github.com/your-username/freelancer-analysis-cli.git
 
 перейдите в директорию с проектом
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 
 # Запуск
-#bash
+## bash
 cd project
 python main.py
 
